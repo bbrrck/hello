@@ -1,9 +1,19 @@
+import sys
+
+
 def default():
     print("Hello")
 
 
+def french():
+    print("Bonjour")
+
+
 def main():
-    default()
+    if sys.argv[1] == "fr":
+        french()
+    else:
+        default()
 
 
 if __name__ == "__main__":
