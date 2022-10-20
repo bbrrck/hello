@@ -1,5 +1,7 @@
 import sys
 
+# toto je komentar
+
 
 def default():
     print("Hello")
