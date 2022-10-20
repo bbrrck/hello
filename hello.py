@@ -2,15 +2,15 @@ import sys
 
 
 def default():
-    print("Hello")
+    print("Hello!")
 
 
 def slovak():
-    print("Ahoj")
+    print("Ahoj!")
 
 
 def french():
-    print("Bonjour")
+    print("Bonjour!")
 
 
 def main():
