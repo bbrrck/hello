@@ -2,9 +2,11 @@ import sys
 
 # toto je komentar
 
+# dalsi komentar
+
 
 def default():
-    print("Hello!")
+    print("Hello!!")
 
 
 def slovak():
