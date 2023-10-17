@@ -1,4 +1,5 @@
 def default():
+    """Greet user in English."""
     print("hello")
 
 def main():
