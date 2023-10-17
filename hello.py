@@ -1,7 +1,7 @@
 import sys
 
 def slovak():
-    print("slovak")
+    print("ahoj")
 
 def default():
     print("hello")
