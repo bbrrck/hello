@@ -1,6 +1,7 @@
 import sys
 
 def slovak():
+    """Greet user in Slovak."""
     print("ahoj")
 
 def default():
