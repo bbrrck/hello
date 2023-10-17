@@ -1,6 +1,7 @@
 import sys
 
 def french():
+    """Greet user in French."""
     print("bonjour")
 
 def default():
